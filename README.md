@@ -40,7 +40,7 @@ Preprocessing steps:
 <summary>📥 Installation Steps (click to expand)</summary>
 
 ```bash
-git clone https://github.com/meanderinghuman/IoTSage
+git clone https://github.com/spk-22/BotNet-Insight
 cd BotNet-Insight
 pip install -r requirements.txt
 ```
@@ -89,10 +89,9 @@ pip install torch torch-geometric scikit-learn pandas numpy matplotlib gradio
 
 ## 🧠 Model Architecture  
 
-Below is the pipeline flow (inline SVG):  
+Below is the pipeline flow:  
 
-<?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="300px" version="1.1" width="900px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs /><rect fill="white" height="100%" width="100%" x="0" y="0" /><rect fill="#4CAF50" height="80" rx="15" ry="15" stroke="black" stroke-width="2" width="160" x="20" y="110" /><text fill="white" font-size="14px" font-weight="bold" text-anchor="middle" x="100" y="140">Data</text><text fill="white" font-size="14px" font-weight="bold" text-anchor="middle" x="100" y="160">(Benign &amp; Mirai CSVs)</text><rect fill="#2196F3" height="80" rx="15" ry="15" stroke="black" stroke-width="2" width="160" x="220" y="110" /><text fill="white" font-size="14px" font-weight="bold" text-anchor="middle" x="300" y="140">Graph</text><text fill="white" font-size="14px" font-weight="bold" text-anchor="middle" x="300" y="160">Construction</text><rect fill="#9C27B0" height="80" rx="15" ry="15" stroke="black" stroke-width="2" width="160" x="420" y="110" /><text fill="white" font-size="14px" font-weight="bold" text-anchor="middle" x="500" y="140">GraphSAGE</text><text fill="white" font-size="14px" font-weight="bold" text-anchor="middle" x="500" y="160">Model</text><rect fill="#FF9800" height="80" rx="15" ry="15" stroke="black" stroke-width="2" width="160" x="620" y="110" /><text fill="white" font-size="14px" font-weight="bold" text-anchor="middle" x="700" y="140">Classifier</text><text fill="white" font-size="14px" font-weight="bold" text-anchor="middle" x="700" y="160">&amp; Evaluation</text><line stroke="black" stroke-width="2" x1="180" x2="220" y1="150" y2="150" /><polygon fill="black" points="220,150 212,146.0 212,154.0" /><line stroke="black" stroke-width="2" x1="380" x2="420" y1="150" y2="150" /><polygon fill="black" points="420,150 412,146.0 412,154.0" /><line stroke="black" stroke-width="2" x1="580" x2="620" y1="150" y2="150" /><polygon fill="black" points="620,150 612,146.0 612,154.0" /></svg>
+![Pipeline Diagram](pipeline_IoTSage.svg)
 
 ---
 
@@ -146,4 +145,4 @@ MIT License – free to use and modify.
 
 ---
 
-✨ **Project maintained by [Siddharth Pal](https://github.com/meanderinghuman)**
+✨ **Project maintained by [Siddharth Pal](https://github.com/spk-22)**
