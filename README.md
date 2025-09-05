@@ -37,7 +37,7 @@ Preprocessing steps:
 
 ```bash
 git clone https://github.com/meanderinghuman/IoTSage-IoT-Botnet-Detection-with-GraphSAGE.git
-cd BotNet-Insight
+cd IoTSage-IoT-Botnet-Detection-with-GraphSAGE
 pip install -r requirements.txt
 ```
 
