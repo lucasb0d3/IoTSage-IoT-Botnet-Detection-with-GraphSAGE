@@ -145,4 +145,4 @@ MIT License – free to use and modify.
 
 ---
 
-✨ **Project maintained by [Siddharth Pal](https://github.com/spk-22)**
+✨ **Project maintained by [Siddharth Pal](https://github.com/meanderinghuman)**
