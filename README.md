@@ -91,7 +91,7 @@ pip install torch torch-geometric scikit-learn pandas numpy matplotlib gradio
 
 Below is the pipeline flow:  
 
-![Pipeline Diagram](pipeline_IoTSage_icons.png)
+![Pipeline Diagram](pipeline_IoTSage_better.png)
 
 ---
 
