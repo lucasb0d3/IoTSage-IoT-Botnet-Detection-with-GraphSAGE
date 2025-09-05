@@ -1,10 +1,6 @@
 # 🚀 IoTSage: IoT Botnet Detection with GraphSAGE
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)  
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.6+-EE4C2C)](https://pytorch.org/)  
-[![Torch Geometric](https://img.shields.io/badge/PyG-GraphSAGE-orange)](https://pytorch-geometric.readthedocs.io/)  
-[![scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)](https://scikit-learn.org/stable/)  
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-2.6+-EE4C2C)](https://pytorch.org/) [![Torch Geometric](https://img.shields.io/badge/PyG-GraphSAGE-orange)](https://pytorch-geometric.readthedocs.io/) [![scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)](https://scikit-learn.org/stable/) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
